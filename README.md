@@ -8,6 +8,7 @@ my leetcode problems
 | ------- |
 | [0001-two-sum](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0630-course-schedule-iii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
 | [0875-koko-eating-bananas](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
@@ -53,4 +54,16 @@ my leetcode problems
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Greedy
+|  |
+| ------- |
+| [0630-course-schedule-iii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
+## Sorting
+|  |
+| ------- |
+| [0630-course-schedule-iii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0630-course-schedule-iii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
 <!---LeetCode Topics End-->
