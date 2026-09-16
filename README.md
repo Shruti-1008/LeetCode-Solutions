@@ -83,4 +83,8 @@ my leetcode problems
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
