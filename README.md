@@ -7,6 +7,7 @@ my leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0059-spiral-matrix-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0630-course-schedule-iii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
@@ -88,6 +89,7 @@ my leetcode problems
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 ## Backtracking
 |  |
@@ -109,4 +111,8 @@ my leetcode problems
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
