@@ -23,6 +23,7 @@ my leetcode problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -40,6 +41,7 @@ my leetcode problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -68,11 +70,13 @@ my leetcode problems
 |  |
 | ------- |
 | [0630-course-schedule-iii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0630-course-schedule-iii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
