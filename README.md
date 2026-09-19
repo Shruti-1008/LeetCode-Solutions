@@ -33,6 +33,7 @@ my leetcode problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Recursion
 |  |
 | ------- |
@@ -141,4 +142,8 @@ my leetcode problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
