@@ -34,6 +34,7 @@ my leetcode problems
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Recursion
 |  |
 | ------- |
@@ -125,6 +126,7 @@ my leetcode problems
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Simulation
 |  |
 | ------- |
@@ -146,4 +148,12 @@ my leetcode problems
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Prefix Sum
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
