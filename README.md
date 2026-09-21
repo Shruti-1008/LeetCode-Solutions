@@ -49,6 +49,7 @@ my leetcode problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -69,6 +70,7 @@ my leetcode problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
 |  |
@@ -133,6 +135,7 @@ my leetcode problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -146,6 +149,7 @@ my leetcode problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
