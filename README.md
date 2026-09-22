@@ -8,6 +8,7 @@ my leetcode problems
 | ------- |
 | [0001-two-sum](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0046-permutations](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -119,6 +120,7 @@ my leetcode problems
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0077-combinations) |
 ## Two Pointers
 |  |
