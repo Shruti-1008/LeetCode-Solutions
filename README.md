@@ -8,6 +8,7 @@ my leetcode problems
 | ------- |
 | [0001-two-sum](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
@@ -86,6 +87,7 @@ my leetcode problems
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0630-course-schedule-iii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Sorting
@@ -126,6 +128,7 @@ my leetcode problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0075-sort-colors) |
 ## Quicksort
 |  |
