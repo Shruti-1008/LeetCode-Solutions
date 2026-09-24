@@ -15,6 +15,7 @@ my leetcode problems
 | [0059-spiral-matrix-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0200-number-of-islands](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0630-course-schedule-iii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
 | [0695-max-area-of-island](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0875-koko-eating-bananas](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -113,21 +114,25 @@ my leetcode problems
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0200-number-of-islands](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0687-longest-univalue-path](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0200-number-of-islands](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 ## Backtracking
 |  |
