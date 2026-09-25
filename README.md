@@ -31,6 +31,7 @@ my leetcode problems
 | [0001-two-sum](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [1096-brace-expansion-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -60,6 +61,7 @@ my leetcode problems
 | [0020-valid-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
+| [1096-brace-expansion-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
@@ -84,6 +86,7 @@ my leetcode problems
 | [0032-longest-valid-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -104,6 +107,7 @@ my leetcode problems
 | [0015-3sum](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0630-course-schedule-iii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
+| [1096-brace-expansion-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3731-find-missing-elements](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
@@ -122,6 +126,7 @@ my leetcode problems
 | ------- |
 | [0200-number-of-islands](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [1096-brace-expansion-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -139,6 +144,7 @@ my leetcode problems
 | ------- |
 | [0046-permutations](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0077-combinations) |
+| [1096-brace-expansion-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Two Pointers
 |  |
 | ------- |
