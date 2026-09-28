@@ -74,6 +74,7 @@ my leetcode problems
 | [1096-brace-expansion-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
@@ -100,6 +101,7 @@ my leetcode problems
 | [0094-binary-tree-inorder-traversal](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -194,6 +196,7 @@ my leetcode problems
 | [0020-valid-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
