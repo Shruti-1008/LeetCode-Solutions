@@ -10,6 +10,7 @@ my leetcode problems
 | [0004-median-of-two-sorted-arrays](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
@@ -35,6 +36,7 @@ my leetcode problems
 | [0001-two-sum](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0904-fruit-into-baskets](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1096-brace-expansion-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -155,6 +157,7 @@ my leetcode problems
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0200-number-of-islands) |
