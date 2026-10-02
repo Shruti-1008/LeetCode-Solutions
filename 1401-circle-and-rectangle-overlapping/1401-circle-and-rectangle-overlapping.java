@@ -1,8 +1,16 @@
 class Solution {
-    public boolean checkOverlap(int r, int cx, int cy, int x1, int y1, int x2, int y2) {
-        int x = Math.max(x1, Math.min(cx, x2)) - cx;
-        int y = Math.max(y1, Math.min(cy, y2)) - cy;
+    public boolean checkOverlap(int radius, int xCenter, int yCenter,
+                                int x1, int y1, int x2, int y2) {
 
-        return x * x + y * y <= r * r;
+        // Find the closest point of rectangle to circle center
+        int closestX = Math.max(x1, Math.min(xCenter, x2));
+        int closestY = Math.max(y1, Math.min(yCenter, y2));
+
+        // Calculate squared distance
+        int dx = xCenter - closestX;
+        int dy = yCenter - closestY;
+
+        // Check if closest point is inside/on circle
+        return dx * dx + dy * dy <= radius * radius;
     }
 }
