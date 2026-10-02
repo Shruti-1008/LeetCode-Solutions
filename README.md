@@ -75,6 +75,7 @@ my leetcode problems
 | [0005-longest-palindromic-substring](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [1096-brace-expansion-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
@@ -169,6 +170,7 @@ my leetcode problems
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0077-combinations) |
 | [1096-brace-expansion-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
@@ -192,6 +194,7 @@ my leetcode problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
@@ -209,6 +212,7 @@ my leetcode problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
