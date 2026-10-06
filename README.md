@@ -58,6 +58,7 @@ my leetcode problems
 | [0009-palindrome-number](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0089-gray-code](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0486-predict-the-winner](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -183,6 +184,7 @@ my leetcode problems
 | [0022-generate-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [1096-brace-expansion-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Two Pointers
 |  |
@@ -257,6 +259,7 @@ my leetcode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
 |  |
