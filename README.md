@@ -57,6 +57,7 @@ my leetcode problems
 | [0002-add-two-numbers](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0486-predict-the-winner](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
@@ -265,6 +266,7 @@ my leetcode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
