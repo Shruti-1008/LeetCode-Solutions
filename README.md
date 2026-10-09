@@ -51,6 +51,7 @@ my leetcode problems
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0092-reverse-linked-list-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 ## Math
 |  |
 | ------- |
