@@ -27,6 +27,7 @@ my leetcode problems
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3524-find-x-value-of-array-i](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -110,6 +111,7 @@ my leetcode problems
 | [0875-koko-eating-bananas](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Stack
 |  |
@@ -144,6 +146,7 @@ my leetcode problems
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -152,11 +155,13 @@ my leetcode problems
 | [0630-course-schedule-iii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
 | [1096-brace-expansion-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3731-find-missing-elements](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0630-course-schedule-iii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Depth-First Search
 |  |
 | ------- |
