@@ -63,6 +63,7 @@ my leetcode problems
 | [0012-integer-to-roman](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0486-predict-the-winner](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -110,6 +111,7 @@ my leetcode problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0875-koko-eating-bananas](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -319,4 +321,8 @@ my leetcode problems
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
