@@ -42,6 +42,7 @@ my leetcode problems
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ my leetcode problems
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -182,6 +184,7 @@ my leetcode problems
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -366,4 +369,8 @@ my leetcode problems
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
