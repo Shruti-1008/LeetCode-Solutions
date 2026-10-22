@@ -25,6 +25,7 @@ my leetcode problems
 | [0875-koko-eating-bananas](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1563-stone-game-v](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -81,6 +82,7 @@ my leetcode problems
 | [0089-gray-code](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0486-predict-the-winner](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1563-stone-game-v](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -258,6 +260,7 @@ my leetcode problems
 | [0486-predict-the-winner](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1563-stone-game-v](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -348,6 +351,7 @@ my leetcode problems
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [1563-stone-game-v](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 ## Zero-Sum Game
 |  |
 | ------- |
