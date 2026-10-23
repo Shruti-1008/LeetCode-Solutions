@@ -40,6 +40,7 @@ my leetcode problems
 | [3525-find-x-value-of-array-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -315,6 +316,7 @@ my leetcode problems
 | [0089-gray-code](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Number Theory
 |  |
