@@ -24,6 +24,7 @@ my leetcode problems
 | [0695-max-area-of-island](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0875-koko-eating-bananas](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [1254-number-of-closed-islands](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -206,6 +207,7 @@ my leetcode problems
 | [0200-number-of-islands](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0687-longest-univalue-path](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -214,11 +216,13 @@ my leetcode problems
 | [0301-remove-invalid-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0695-max-area-of-island](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [1096-brace-expansion-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Matrix
 |  |
 | ------- |
@@ -227,6 +231,7 @@ my leetcode problems
 | [0059-spiral-matrix-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
 |  |
