@@ -41,6 +41,7 @@ my leetcode problems
 | [3525-find-x-value-of-array-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -208,6 +209,7 @@ my leetcode problems
 | [0687-longest-univalue-path](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -217,12 +219,14 @@ my leetcode problems
 | [0695-max-area-of-island](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [1096-brace-expansion-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -233,6 +237,7 @@ my leetcode problems
 | [0695-max-area-of-island](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
