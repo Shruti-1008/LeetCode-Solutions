@@ -27,6 +27,7 @@ my leetcode problems
 | [0875-koko-eating-bananas](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1254-number-of-closed-islands](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -152,6 +153,7 @@ my leetcode problems
 | [0004-median-of-two-sorted-arrays](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0875-koko-eating-bananas](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -202,6 +204,7 @@ my leetcode problems
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0630-course-schedule-iii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
 | [1096-brace-expansion-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -274,6 +277,7 @@ my leetcode problems
 | [0015-3sum](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Quicksort
 |  |
 | ------- |
