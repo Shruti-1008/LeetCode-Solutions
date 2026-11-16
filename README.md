@@ -145,6 +145,7 @@ my leetcode problems
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -334,6 +335,7 @@ my leetcode problems
 | [0054-spiral-matrix](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shruti-1008/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
 |  |
